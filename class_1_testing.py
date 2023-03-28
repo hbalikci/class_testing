@@ -9,3 +9,5 @@ print("Hello, World!!!")
 
 print("No more math.")
 
+x = 10
+print(x*2)
